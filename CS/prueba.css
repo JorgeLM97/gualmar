@@ -1,0 +1,56 @@
+
+body{
+    background-color:rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    /*font-family: 'Qwitcher Grypen',cursive;*/
+    text-align: center;
+    
+    color: #1d3557;
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+ul{
+   
+    list-style-type: none;
+    background-color: #1377b9;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+
+}
+
+ul li{
+    float:left;
+
+}
+ul li a{
+
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+ul li a:hover{
+    color:#1377b9;
+    background-color: #FCB61A;
+    
+}
+pre{
+    font-family: 'Raleway', sans-serif;
+}
+ol{
+    text-align: justify;
+}
